@@ -34,3 +34,7 @@ print(+-9)
 print(----9)
 
 print(4.5/2.0)
+a = 22/7
+b = int(a)
+print(type(a))
+print(b)
