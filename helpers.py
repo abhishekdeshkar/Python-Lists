@@ -29,3 +29,8 @@ print(TestList.count(10))
 #Index - 
 print(TestList.index(2))
 
+#Mathematical operations
+print(+-9)
+print(----9)
+
+print(4.5/2.0)
